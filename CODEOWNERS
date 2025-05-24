@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Voiq
+/src/backend/database.py      @Voiq
+/src/backend/routers/auth.py  @Voiq
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Voiq
